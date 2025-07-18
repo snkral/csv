@@ -1,5 +1,6 @@
-      <directory suffix="Bench.php">src</directory>
-      <directory suffix="_include.php">src</directory>
+    find pkg  <directory suffix="Bench.php">src</directory>
+    php  <directory suffix="_include.php">src</directory>
     </exclude>
   </source>
 </phpunit>update
+update phpunit.xml
